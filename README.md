@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, 𝘐'𝘮 𝘔𝘦𝘩𝘳𝘢𝘫</h1>
 
--👀 I’m interested in Cross-Platform Mobile Developement
--🌱 I’m currently learning Flutter
--💞️ I’m looking to collaborate on open-source projects
--👨‍🎓 Student At BCA | 3th Stage 🏛️
--📫 How to reach me: mehraj99itz@gmail.com
-
+- 👀 I’m interested in Cross-Platform Mobile Developement
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on open-source projects
+- 👨‍🎓 Student At BCA | 3th Stage 🏛️
+- 📫 How to reach me: mehraj99itz@gmail.com
+  
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/mehrajx7">
